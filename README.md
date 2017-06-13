@@ -4,13 +4,15 @@
 
 └[時系列](TimeSeries.md)
 
+![ロゴ](img/logo.png)
+
 ## 書籍
 
 |巻数|発売日|画像|
 |---:|---:|:---:|
-|３巻|2017/？？|![３巻](img/FrontPage3.jpg)|
-|２巻|2017/02/25|![２巻](img/FrontPage2.jpg)|
-|１巻|2016/10/27|![１巻](img/FrontPage1.jpg)|
+|３巻|2017/？？|<img src="img/FrontPage3.png" height="200px">|
+|２巻|2017/02/25|<img src="img/FrontPage2.png" height="200px">|
+|１巻|2016/10/27|<img src="img/FrontPage1.jpg" height="200px">|
 
 ## 主な登場人物
 
