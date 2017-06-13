@@ -11,8 +11,8 @@
 |巻数|発売日|画像|
 |---:|---:|:---:|
 |３巻|2017/？？||
-|２巻|2017/02/25|<img src="img/FrontPage2.png" height="200px">|
-|１巻|2016/10/27|<img src="img/FrontPage1.jpg" height="200px">|
+|２巻|2017/02/25|[<img src="img/FrontPage2.png" height="200px">](http://www.amazon.co.jp/exec/obidos/ASIN/457575126X/syou2014-22)|
+|１巻|2016/10/27|[<img src="img/FrontPage1.jpg" height="200px">](http://www.amazon.co.jp/exec/obidos/ASIN/4575751006/syou2014-22)|
 
 ## 主な登場人物
 
