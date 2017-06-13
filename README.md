@@ -45,23 +45,7 @@
 ※287話時点のステータス　
 
 ## キャラクター画像
-### セイジ
-<img src="img/セイジ.png" height="200px">
-
-### エレナ
-<img src="img/エレナ.png" height="200px">
-
-### アヤ
-<img src="img/アヤ.png" height="200px">
-
-### リルラ
-<img src="img/リルラ.png" height="200px">
-
-### 舞衣
-<img src="img/舞衣.jpg" height="200px">
-
-### 百合恵
-<img src="img/百合恵.jpg" height="200px">
-
-### 雷精霊
-<img src="img/雷精霊.jpg" height="200px">
+|||||
+|---|---|---|---|
+|**セイジ**<br><img src="img/セイジ.png" height="200px">|**エレナ**<br><img src="img/エレナ.png" height="200px">|**アヤ**<br><img src="img/アヤ.png" height="200px">|**リルラ**<br><img src="img/リルラ.png" height="200px">|
+|**舞衣**<br><img src="img/舞衣.jpg" height="200px">|**百合恵**<br><img src="img/百合恵.jpg" height="200px">|**雷精霊**<br><img src="img/雷精霊.jpg" height="200px">|
