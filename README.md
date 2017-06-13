@@ -10,7 +10,7 @@
 
 |巻数|発売日|画像|
 |---:|---:|:---:|
-|３巻|2017/？？|<img src="img/FrontPage3.png" height="200px">|
+|３巻|2017/？？||
 |２巻|2017/02/25|<img src="img/FrontPage2.png" height="200px">|
 |１巻|2016/10/27|<img src="img/FrontPage1.jpg" height="200px">|
 
