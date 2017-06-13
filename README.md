@@ -6,13 +6,15 @@
 
 ![ロゴ](img/logo.png)
 
+[＞＞小説家になろう/時空魔法で異世界と地球を行ったり来たり](http://ncode.syosetu.com/n6451cr/)
+
 ## 書籍
 
 |巻数|発売日|画像|
 |---:|---:|:---:|
 |３巻|2017/？？||
-|２巻|2017/02/25|[<img src="img/FrontPage2.png" height="200px">](http://www.amazon.co.jp/exec/obidos/ASIN/457575126X/syou2014-22)|
-|１巻|2016/10/27|[<img src="img/FrontPage1.jpg" height="200px">](http://www.amazon.co.jp/exec/obidos/ASIN/4575751006/syou2014-22)|
+|２巻|2017/02/25|[<img src="img/FrontPage2.png" height="200px">＞＞am͜a͉zonで購入](http://www.amazon.co.jp/exec/obidos/ASIN/457575126X/syou2014-22)|
+|１巻|2016/10/27|[<img src="img/FrontPage1.jpg" height="200px">＞＞am͜a͉zonで購入](http://www.amazon.co.jp/exec/obidos/ASIN/4575751006/syou2014-22)|
 
 ## 主な登場人物
 
