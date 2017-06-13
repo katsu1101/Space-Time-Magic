@@ -43,3 +43,25 @@
 |<ruby>三原 百合恵<rp>（</rp><rt>みはら　ゆりえ</rt><rp>）</rp></ruby>|
 
 ※287話時点のステータス　
+
+## キャラクター画像
+### セイジ
+<img src="img/セイジ.png" height="200px">
+
+### エレナ
+<img src="img/エレナ.png" height="200px">
+
+### アヤ
+<img src="img/アヤ.png" height="200px">
+
+### リルラ
+<img src="img/リルラ.png" height="200px">
+
+### 舞衣
+<img src="img/舞衣.jpg" height="200px">
+
+### 百合恵
+<img src="img/百合恵.jpg" height="200px">
+
+### 雷精霊
+<img src="img/雷精霊.jpg" height="200px">
