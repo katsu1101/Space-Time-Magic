@@ -4,8 +4,6 @@
 
 └[時系列](TimeSeries.md)
 
-![ロゴ](img/logo.png)
-
 [＞＞小説家になろう/時空魔法で異世界と地球を行ったり来たり](http://ncode.syosetu.com/n6451cr/)
 
 ## 書籍
