@@ -1,6 +1,6 @@
 # 時空魔法で異世界と地球を行ったり来たり
 
-└[~~習得魔法~~](MasterMagic.md)
+└[習得魔法](MasterMagic.md)
 
 └[時系列](TimeSeries.md)
 
