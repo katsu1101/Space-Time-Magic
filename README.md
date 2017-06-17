@@ -1,7 +1,8 @@
 # 時空魔法で異世界と地球を行ったり来たり
 └[習得魔法](MasterMagic.md)  
 └[時系列](TimeSeries.md)  
-└[魔石](Manastone.md)
+└[魔石](Manastone.md)  
+└[人物](Person.md)  
 
 [＞＞小説家になろう/時空魔法で異世界と地球を行ったり来たり](http://ncode.syosetu.com/n6451cr/)
 
