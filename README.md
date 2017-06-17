@@ -1,8 +1,8 @@
 # 時空魔法で異世界と地球を行ったり来たり
-└[習得魔法](Page/MasterMagic.md)  
-└[時系列](Page/TimeSeries.md)  
-└[魔石](Page/Manastone.md)  
-└[人物](Page/Person.md)  
+└[習得魔法](page/MasterMagic.md)  
+└[時系列](page/TimeSeries.md)  
+└[魔石](page/Manastone.md)  
+└[人物](page/Person.md)  
 
 [＞＞小説家になろう/時空魔法で異世界と地球を行ったり来たり](http://ncode.syosetu.com/n6451cr/)
 
@@ -11,8 +11,8 @@
 |巻数|発売日|画像|ISBN-13|
 |---:|---:|:---:|:---:|
 |３巻|2017/？？|||
-|２巻|2017/02/25|[<img src="Page/img/FrontPage2.png" height="200px">](http://www.amazon.co.jp/exec/obidos/ASIN/457575126X/syou2014-22)|978-4575751260|
-|１巻|2016/10/27|[<img src="Page/img/FrontPage1.jpg" height="200px">](http://www.amazon.co.jp/exec/obidos/ASIN/4575751006/syou2014-22)|978-4575751000|
+|２巻|2017/02/25|[<img src="page/img/FrontPage2.png" height="200px">](http://www.amazon.co.jp/exec/obidos/ASIN/457575126X/syou2014-22)|978-4575751260|
+|１巻|2016/10/27|[<img src="page/img/FrontPage1.jpg" height="200px">](http://www.amazon.co.jp/exec/obidos/ASIN/4575751006/syou2014-22)|978-4575751000|
 
 ## 主な登場人物
 
@@ -43,5 +43,5 @@
 ## キャラクター画像
 |||||
 |---|---|---|---|
-|**セイジ**<br><img src="Page/img/セイジ.png" height="200px">|**エレナ**<br><img src="Page/img/エレナ.png" height="200px">|**アヤ**<br><img src="Page/img/アヤ.png" height="200px">|**リルラ**<br><img src="Page/img/リルラ.png" height="200px">|
-|**舞衣**<br><img src="Page/img/舞衣.jpg" height="200px">|**百合恵**<br><img src="Page/img/百合恵.jpg" height="200px">|**雷精霊**<br><img src="Page/img/雷精霊.jpg" height="200px">|
+|**セイジ**<br><img src="page/img/セイジ.png" height="200px">|**エレナ**<br><img src="page/img/エレナ.png" height="200px">|**アヤ**<br><img src="page/img/アヤ.png" height="200px">|**リルラ**<br><img src="page/img/リルラ.png" height="200px">|
+|**舞衣**<br><img src="page/img/舞衣.jpg" height="200px">|**百合恵**<br><img src="page/img/百合恵.jpg" height="200px">|**雷精霊**<br><img src="page/img/雷精霊.jpg" height="200px">|
