@@ -3,8 +3,10 @@
 └[時系列](page/TimeSeries.md)  
 └[魔石](page/Manastone.md)  
 └[人物](page/Person.md)  
+└[精霊](Elementals.md)
 
 [＞＞小説家になろう/時空魔法で異世界と地球を行ったり来たり](http://ncode.syosetu.com/n6451cr/)
+[＞＞感想はこちらへ](http://novelcom.syosetu.com/impression/list/ncode/696382/)
 
 ## 書籍
 
