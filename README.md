@@ -12,9 +12,9 @@
 
 |巻数|発売日|画像|ISBN-13|
 |---:|---:|:---:|:---:|
-|３巻|2017/？？|||
-|２巻|2017/02/25|[<img src="page/img/FrontPage2.png" height="200px">](http://www.amazon.co.jp/exec/obidos/ASIN/457575126X/syou2014-22)|978-4575751260|
-|１巻|2016/10/27|[<img src="page/img/FrontPage1.jpg" height="200px">](http://www.amazon.co.jp/exec/obidos/ASIN/4575751006/syou2014-22)|978-4575751000|
+|３巻|2017/08/29|[<img src="page/img/FrontPage3.jpg" height="200px">](http://amzn.asia/fDSqwtU)|978-4575751574|
+|２巻|2017/02/25|[<img src="page/img/FrontPage2.png" height="200px">](http://amzn.asia/cevQCor)|978-4575751260|
+|１巻|2016/10/27|[<img src="page/img/FrontPage1.jpg" height="200px">](http://amzn.asia/aYv450t)|978-4575751000|
 
 ## 主な登場人物
 
