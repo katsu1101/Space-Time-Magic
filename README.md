@@ -47,3 +47,4 @@
 |---|---|---|---|
 |**セイジ**<br><img src="page/img/セイジ.png" height="200px">|**エレナ**<br><img src="page/img/エレナ.png" height="200px">|**アヤ**<br><img src="page/img/アヤ.png" height="200px">|**リルラ**<br><img src="page/img/リルラ.png" height="200px">|
 |**舞衣**<br><img src="page/img/舞衣.jpg" height="200px">|**百合恵**<br><img src="page/img/百合恵.jpg" height="200px">|**雷精霊**<br><img src="page/img/雷精霊.jpg" height="200px">|
+|**ヒルダ**<br><img src="page/img/ヒルダ.jpg" height="200px">|**カサンドラ**<br><img src="page/img/カサンドラ.jpg" height="200px">|**ミーシャ**<br><img src="page/img/ミーシャ.jpg" height="200px">|**魔王**<br><img src="page/img/魔王.jpg" height="200px">|
